@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">My Modules</string>
+
+    <string name="tvC346">C346 Android Programming</string>
+    <string name="tvC203">C203 Web AppIn Development in PHP</string>
+    <string name="tvC206">C206 Software Development Process</string>
+    <string name="tvC235">C235 IT Security and Management</string>
+    <string name="tvC218">C218 UI/UX Design for Apps</string>
+
+    <string name="btnBack">Back to module list</string>
+
+</resources>
